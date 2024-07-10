@@ -27,13 +27,13 @@ Clone the project
 
 ```bash
  
-  git clone https://learn.zone01kisumu.ke/git/cowalla/go-reloaded
+  git clone https://github.com/Cherrypick14/Text_Modification_Tool
 ```
 
 Go to the project directory
 
 ```bash
-  cd go-reloaded
+  cd Text_Modification_Tool
 ```
 
 Run the program
@@ -53,7 +53,7 @@ To run tests, run the following command
 
 ## Authors
 
-- [@cowalla](https://learn.zone01kisumu.ke/git/cowalla)
+- [@Cherrypick14](https://github.com/Cherrypick14)
 
 
 
