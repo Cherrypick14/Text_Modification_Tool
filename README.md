@@ -1,5 +1,5 @@
 
-# Go-RELOADED
+# Text-Modification-Tool
 
 This project is a command-line utility designed to manipulate text files according to specified functions. Upon execution, the program reads an input text file (specified as the first argument) and applies a series of text transformation functions to the content. The transformed text is then written to an output file (specified as the second argument).
 
